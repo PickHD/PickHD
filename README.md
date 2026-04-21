@@ -10,7 +10,7 @@
 * 🔭 Currently developing **BaseKarya**, a comprehensive HRIS platform.
 * 🌱 Deepening my expertise in modern architectural patterns, including **Microservices, gRPC, GraphQL**.
 * 🐧 A proud **Linux Mint** daily driver for development and technical experimentation.
-* ⚡ When I'm not coding, I'm usually optimizing my PC hardware and gaming.
+* ⚡ When I'm not coding, I'm usually jogging and gaming.
 * 📫 Open for international freelance opportunities!
 
 <br>
@@ -19,7 +19,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br><br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />

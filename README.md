@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 * 💼 **Backend Engineer** with over 2 years of professional experience building scalable applications.
 * 🔭 Currently developing **BaseKarya**, a comprehensive HRIS platform.
-* 🌱 Deepening my expertise in modern architectural patterns, including **Microservices, gRPC, GraphQL**.
+* 🌱 Deepening my expertise in modern architectural patterns, including **Microservices,RESTful-API gRPC, GraphQL**.
 * 🐧 A proud **Linux Mint** daily driver for development and technical experimentation.
 * ⚡ When I'm not coding, I'm usually jogging and gaming.
 * 📫 Open for international freelance opportunities!
